@@ -1,7 +1,7 @@
 ﻿// AnaglyphProject.cpp : Defines the entry point for the console application.
 //
 
-//#include "./stdafx.h"
+#include "pch.h"
 #include "./headers/ImageHandling.h"
 
 
@@ -244,16 +244,3 @@ void mouseEvent(int event, int flags, int x, int y, void* param)
 }
 
 
-
-
-
-
-/*
-#include <iostream>
-
-int main()
-{
-    std::cout << "Hello World!\n";
-}
-
-*/

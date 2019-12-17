@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "ImageHandling.h"
+#include "pch.h"
+#include "./headers/ImageHandling.h"
 
 
 int ImageHandling::imageNumber;

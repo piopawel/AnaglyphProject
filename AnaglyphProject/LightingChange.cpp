@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "LightingChange.h"
+#include "pch.h"
+#include "./headers/LightingChange.h"
 
 
 LightingChange::LightingChange()

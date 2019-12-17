@@ -1,5 +1,5 @@
-#include "stdafx.h"
-#include "ImageProcess.h"
+#include "pch.h"
+#include "./headers/ImageProcess.h"
 
 
 cv::Rect ImageProcess::chosenROI;
