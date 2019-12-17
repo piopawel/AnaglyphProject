@@ -1,8 +1,8 @@
 ﻿// AnaglyphProject.cpp : Defines the entry point for the console application.
 //
 
-#include "stdafx.h"
-#include "ImageHandling.h"
+//#include "./stdafx.h"
+#include "./headers/ImageHandling.h"
 
 
 void startingFunction(int imageNumber);
