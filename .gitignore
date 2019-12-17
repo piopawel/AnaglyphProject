@@ -353,3 +353,4 @@ MigrationBackup/
 .ionide/
 AnaglyphProject/AnaglyphProject.vcxproj.filters
 AnaglyphProject/AnaglyphProject.vcxproj
+AnaglyphProject/photos_orig/
